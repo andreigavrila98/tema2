@@ -1,0 +1,5 @@
+ID              nm          lat     lon     countryCode
+819827        Razvilka        0       0       RU
+524901        Moscow          0       0       RU
+2973393       Tarascon        0       0       FR
+2986678       Ploufragan      0       0       FR
